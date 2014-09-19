@@ -1,6 +1,5 @@
 app/bin
 app/gen
-app/src/fm/last/android/PrivateAPIKey.java
 app/assets
 app/local.properties
 LastFmAuthTest/bin
